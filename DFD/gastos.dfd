@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+36
+'You Appear Just Like A Dream To Me'
+6
+3
+6
+gastos
+1
+0
+1
+r
+4
+'si'
+1
+m
+1
+0
+9
+1
+17
+r='si' or  r='Si'
+4
+1
+15
+'ingrese monto'
+5
+1
+1
+m
+6
+1
+6
+gastos
+8
+gastos+m
+4
+1
+16
+'hay mas gastos'
+5
+1
+1
+r
+11
+4
+1
+20
+'el total es',gastos
+1

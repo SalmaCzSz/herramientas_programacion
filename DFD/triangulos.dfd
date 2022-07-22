@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+r
+1
+0
+1
+s
+1
+0
+1
+t
+1
+0
+4
+1
+11
+'ingrese r'
+5
+1
+1
+r
+4
+1
+11
+'ingrese s'
+5
+1
+1
+s
+4
+1
+11
+'ingrese t'
+5
+1
+1
+t
+7
+0
+1
+19
+r=s and s=t and t=r
+7
+0
+1
+22
+r!=s and s!=t and t!=r
+4
+1
+26
+'es un triangulo isoseles'
+13
+4
+1
+26
+'es un triangulo escaleno'
+13
+13
+4
+1
+28
+'es un triangulo equilatero'
+13
+1

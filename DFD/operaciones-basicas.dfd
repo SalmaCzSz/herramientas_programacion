@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+N
+1
+0
+1
+M
+1
+0
+4
+1
+15
+'Dame un valor'
+5
+1
+1
+N
+4
+1
+15
+'Dame un Valor'
+5
+1
+1
+M
+6
+1
+4
+Suma
+3
+N+M
+4
+1
+23
+'El resultado es ',Suma
+6
+1
+5
+Resta
+3
+N-M
+4
+1
+24
+'El Resultado Es ',Resta
+6
+1
+14
+Multiplicacion
+3
+N*M
+4
+1
+33
+'El Resultado Es ',Multiplicacion
+6
+1
+8
+Divicion
+3
+N/M
+4
+1
+27
+'El Resultado Es ',Divicion
+1

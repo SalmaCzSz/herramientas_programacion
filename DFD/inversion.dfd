@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+8
+cantidad
+5
+50000
+5
+anual
+1
+0
+9
+1
+15
+cantidad<100000
+6
+2
+8
+cantidad
+13
+cantidad*1.09
+5
+anual
+7
+anual+1
+4
+1
+14
+'año',   anual
+4
+1
+25
+'Cantidad es',   cantidad
+11
+1

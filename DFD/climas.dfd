@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+T
+1
+0
+4
+1
+24
+'INGRESE LA TEMPERATURA'
+5
+1
+1
+T
+7
+1
+1
+4
+T>30
+4
+1
+27
+'TE VAS A ROSTIZAR POLLITO'
+13
+7
+1
+1
+15
+T>=16 and T<=25
+4
+1
+30
+'VAMOS A LA PLAYA OH OH OH OH'
+13
+7
+1
+1
+15
+T>=11 and T<=15
+4
+1
+16
+'EXELENTE CLIMA'
+13
+7
+1
+1
+14
+T>=0 and T<=10
+4
+1
+35
+'TE VAS A CONGELAR COPITO DE NIEVE'
+13
+4
+1
+22
+'la temperatura es ',T
+13
+13
+13
+13
+1

@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+J
+1
+0
+1
+S
+1
+0
+4
+1
+15
+'Ingresa valor'
+5
+1
+1
+J
+4
+1
+15
+'Ingresa Valor'
+5
+1
+1
+S
+6
+3
+5
+Mayor
+3
+J>S
+5
+Menor
+3
+J<s
+5
+Igual
+3
+J=S
+7
+1
+1
+3
+J=S
+4
+1
+13
+'Son iguales'
+13
+7
+0
+1
+3
+J<S
+4
+1
+13
+'Es Mayor ',J
+13
+4
+1
+13
+'Es Menor ',J
+13
+13
+1
